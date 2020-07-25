@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Rodrigo! 👋
 
-<!--
-**RodrigoPiropo/RodrigoPiropo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇧🇷 Born in Itiruçu, Bahia - Brazil!
+- 📫 How to reach me: rodrigoap1307@gmail.com
+- ⚡ Fun fact: I've tried to create .exe with python...hehe
+- 💻 My favorite OS is linux! (Ubuntu)
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 I’m currently working on web scraping to get data from anywhere on the internet!
+- 🌱 I’m currently learning data science, because I find a mixture of things that I think are cool, like math and programming!
+
+### Find me elsewhere 🌎
+
+- 🚀 [Kaggle](https://www.kaggle.com/rodrigoalmeida13) <br>
