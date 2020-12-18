@@ -8,7 +8,6 @@
 ### What I'm working on 👨‍💻
 
 - 🤖 I’m currently working on web scraping to get data from anywhere on the internet!
-- 🌱 I’m currently learning data science, because I find a mixture of things that I think are cool, like math and programming!
 
 ### Find me elsewhere 🌎
 
