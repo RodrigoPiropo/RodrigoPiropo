@@ -2,7 +2,7 @@
 
 - 🇧🇷 Born in Itiruçu, Bahia - Brazil!
 - 📫 How to reach me: rodrigoap1307@gmail.com
-- 💻 My favorite OS: Pop!_OS
+- 💻 Linux > Windows
 
 ### Find me elsewhere 🌎
 
