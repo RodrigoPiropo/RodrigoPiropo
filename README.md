@@ -1,6 +1,6 @@
 ### Hi there, I'm Rodrigo! 👋
 
-- 🇧🇷 Born in Itiruçu, Bahia - Brazil!
+- 🇧🇷 Brasil!
 - 📫 How to reach me: rodrigoap1307@gmail.com
 - 💻 Linux > Windows
 
